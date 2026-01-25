@@ -67,7 +67,7 @@ hmmsearch test.hmm uniprot_Atha.fasta > hmm_report.txt
 
 ### 3: Clustalo on test.faa falied so resorted to chatgtp and it recommended me to create another file with related sequences derived from BLAST results so that i can comapare the two sequences.
 
-### 4: AlphaFold engine wasn't working well showing no results at first then it worked normally.
+### 4: AlphaFold engine wasn't working as expected , was showing no results at first then it worked normally.
 ### 5: I went back to  the recorded session and relied on Chatgtp whenever i got stuck.
 
 ## References
