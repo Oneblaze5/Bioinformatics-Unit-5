@@ -25,7 +25,7 @@ blastx -query test.fna -db uniprot_Atha.fasta -out test.fna.blast
 
 
 
-### EX3: I examined the default pairwise alignment format, which shows specific aa matches between the query and subject.
+### EX3: I examined the default pairwise alignment format, which shows specific faa matches between the query and subject.
 
 ```bash
 blastp -query test.faa -db uniprot_Atha.fasta -out test.faa.blast
