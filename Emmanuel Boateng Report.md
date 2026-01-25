@@ -57,7 +57,7 @@ hmmsearch test.hmm uniprot_Atha.fasta > hmm_report.txt
 
 ### EX9: I used QuickGO to compare leaf development across species. Arabidopsis showed more experimental evidence with 137 products which is more than Prunus with 4 products and Zea mays with 5 products.
 
-### EX10: I retrieved the 3D structure from AlfaFold Databvase using ID Q9ZTZ8. It showed high confidence (pLDDT > 90) in core domain and lower confidence in disoredered regions.
+### EX10: I retrieved the 3D structure from AlfaFold Database using ID Q9ZTZ8. It showed high confidence (pLDDT > 90) in core domain and lower confidence in disoredered regions.
 
 ## 1.2 Problems  faced:
 
